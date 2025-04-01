@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuthModule</string>
+    <string name="mail_onboarding">Email</string>
+    <string name="password_onboarding">Password</string>
+    <string name="init_session_button_onboarding">Sign in</string>
+    <string name="register_button_onboarding">Sign up</string>
+    <string name="continue_no_register">Countinue without register</string>
+    <string name="continue_button_signup">Continue</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password_message">Enter your email to restore your password</string>
+    <string name="recreate_password">Restore password</string>
+    <string name="forgotten_pass">Forgot your password?</string>
+</resources>

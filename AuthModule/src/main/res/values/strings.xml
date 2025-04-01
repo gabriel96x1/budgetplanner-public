@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AuthModule</string>
+    <string name="mail_onboarding">Correo</string>
+    <string name="password_onboarding">Contraseña</string>
+    <string name="init_session_button_onboarding">Iniciar sesión</string>
+    <string name="register_button_onboarding">Registrarse</string>
+    <string name="continue_no_register">Continuar sin registrarse</string>
+    <string name="continue_button_signup">Continuar</string>
+    <string name="sign_in">Inicio de sesión</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="forgot_password_message">Ingresa tu correo para reestablecer tu contraseña</string>
+    <string name="recreate_password">Reestablecer contraseña</string>
+    <string name="forgotten_pass">¿Olvidaste tu contraseña?</string>
+    <string name="verification_code_entry">Codigo de verificación</string>
+    <string name="verification_code_button">Verificar</string>
+    <string name="verification_code_message">Hemos enviado un codigo de verificación a tu correo, introducelo a continuación para continuar</string>
+</resources>

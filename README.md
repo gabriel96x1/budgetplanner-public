@@ -1,1 +1,3 @@
-# budgetplanner-public
+# budgetplanner
+
+## Board de planeacion:
